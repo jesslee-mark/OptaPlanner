@@ -20,6 +20,8 @@
 7. [【optaplanner教程8】shadow阴影变量](https://zhuanlan.zhihu.com/p/673736216)
 8. [【optaplanner教程9】OptaPlanner优化算法](https://zhuanlan.zhihu.com/p/706410092?just_published=2&is_recommend=1)
 9. [【optaplanner教程10】OptaPlanner Exhaustive search穷举搜索](https://zhuanlan.zhihu.com/p/706411549)
+10. [【OptaPlanner教程11】OptaPlaner构造启发式算法](https://zhuanlan.zhihu.com/p/720787005)
+11. [【OptaPlaner教程12】OptaPlaner Partitioned Search](https://zhuanlan.zhihu.com/p/720788026)
 
 ## ortools系列
 
